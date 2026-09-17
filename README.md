@@ -1,1 +1,3 @@
-# SHB's Mini HomePage
+# SHB's Mini HomePage 
+
+## 혈액형 (O형)
